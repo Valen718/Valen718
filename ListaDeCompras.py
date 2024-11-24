@@ -1,7 +1,7 @@
 #Lista de compras:
 #Pedí al usuario que ingrese productos para una lista de compras y mostrá la lista completa al final.
 #Permití que elimine algún elemento.
-
+#Disfruta!!!
 lista = ["manzana", "pan", "atun", "sopa"]
 
 lista.append(input("Agrega un elemento a la lista del supermercado: \n"))
